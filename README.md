@@ -3,7 +3,7 @@
 
 ### me
 
-```bash
+```python
 $ hack4mate
 
                                     011     
@@ -19,16 +19,16 @@ $ hack4mate
    101110111011101110111011100 1001         Uptime: "21 years"
   1011101110111011101110111011  1001        Location: "GER"
  10111 1011 100 10111011  100 1 1011        
-110111 1011 100 100 1011   00 1 10111       OS: MacOS
+110111 1011 100 100 1011   00 1 10111       OS: "MacOS"
 110111      100 100 1011 1   00 10111       Languages.Computer: ["Python", "C#", "Powershell"]
 110111 1011 100       00 00  00  1011       Languages.Real: ["English", "German"]
  10111 1011 1011100 1011 1011100 1011       
- 11000 1000 1011100 1011 10111011100        Hobbys.RL: ["Surfing", "Climbing"]
-   1011101110111011 101110111011001         Hobbys.Online: "HTB"
-    101110111011101110111011111101          
-      10111011101110111011101111            Twitter: @Hack4Mate
+ 11000 1000 1011100 1011 10111011100        Certifications: "Google: Cybersecurity Professional"
+   1011101110111011 101110111011001         
+    101110111011101110111011111101          Hobbys.RL: ["Surfing", "Climbing"]
+      10111011101110111011101111            Hobbys.Online: "HTB"
         1110111011101110111011              
-             111011100%1                                  
+             111011100%1                    Twitter: @Hack4Mate              
 
 
 ``` 
