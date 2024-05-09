@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#5F8575;">
 ### Hi there 👋
 
 <!--
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
+</html>
