@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🧉 hi - im noah
 ---
 
 more details here
@@ -6,7 +6,7 @@ more details here
 ---
 
 <details>
-<summary><h3>My Stats 🫣</h3></summary> 
+<summary><h3>my stats 🫣</h3></summary> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hack4mate&theme=vue-dark&show_icons=true)
 </details>
