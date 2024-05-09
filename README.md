@@ -1,9 +1,9 @@
-### 🧉 hi - im noah
+### 👋 hi - im noah
 ---
 
-### me
+### 👨‍🦰 me
 
-```python
+```bash
 $ hack4mate
 
                                     011     
@@ -36,9 +36,9 @@ $ hack4mate
 ---
 
 <details>
-<summary><h3>my stats 🫣</h3></summary> 
+<summary><h3>🫣 my stats</h3></summary> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hack4mate&theme=vue-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hack4mate&theme=holi&show_icons=true)
 </details>
 
 <!--
