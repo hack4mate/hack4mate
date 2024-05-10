@@ -1,17 +1,16 @@
 ### 👋 Hi - im Noah
 ---
-### About me
-<img align="right" alt="how_i_thik_i_look_xD" width="150" src="./assets/HackerUsingLaptop.gif">
+### About me <img align="right" alt="how_i_thik_i_look_xD" width="260" src="./assets/HackerUsingLaptop.gif">
 
 
-Hey there, I'm Noah, and I live and breathe cybersecurity. 
-At just 21 years old, I'm already knee-deep in the offensive side of the field, 
-constantly honing my skills and pushing boundaries. When I'm not busy breaking down digital defenses, 
-you'll often find me catching waves or diving into challenges on Hack The Box. 
-It's a thrilling blend of adrenaline and intellect that keeps me hooked, 
-always hungry for the next big challenge. Join me as I ride the waves of cybersecurity, carving out my path in this ever-evolving landscape.
-
-
+Hey there, I'm Noah, and I live and breathe cybersecurity. <br> 
+At just 21 years old, I'm already knee-deep in the offensive <br> 
+side of the field, constantly honing my skills and pushing boundaries. <br> 
+When I'm not busy breaking down digital defenses, <br> 
+you'll often find me catching waves or diving into challenges on Hack The Box. <br> 
+It's a thrilling blend of adrenaline and intellect that keeps me hooked, <br> 
+always hungry for the next big challenge. Join me as I ride the waves of cybersecurity, <br>
+carving out my path in this ever-evolving landscape.
 
 <!--
 Hacker GIF from here:
