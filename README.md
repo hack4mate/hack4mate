@@ -33,7 +33,7 @@ Hacker GIF from here:
 
 ---
 
-```bash
+```python
 $ hack4mate
 
                                     011     
