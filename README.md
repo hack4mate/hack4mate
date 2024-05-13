@@ -1,20 +1,22 @@
 ### 👋 Hi - im Noah
 ---
-### About me <img align="right" alt="how_i_thik_i_look_xD" width="260" src="./assets/HackerUsingLaptop.gif">
+### About me 
+<img align="right" alt="how_i_thik_i_look_xD" width="400" src="./assets/HackerUsingLaptop.gif">
 
-
-Hey there, I'm Noah, welcome to my GitHub Profile. <br>
+Hey there, I'm Noah, welcome to my GitHub Profile. <br> 
 Here you can find Cybersecurity Related Projects and <br>
-other stuff i am working on. Sometimes also leet code challenges and <br>
+other stuff i am working on. Sometimes also leet code challenges and <br> 
 stuff like that xD <br>
 <br>
 About me, I live and breathe cybersecurity. <br> 
 I am 21 years old, and in the offensive side of the field, <br>
 constantly evolving my skills and pushing boundaries. <br> 
 When I'm not busy breaking down digital defenses, <br> 
-you'll often find me catching waves, riding motorcycles or diving into challenges on Hack The Box. <br> 
-I am always hungry for the next big challenge. Join me as I ride the waves of cybersecurity, <br>
-carving out my path in this ever-evolving landscape.
+you'll often find me catching waves, riding motorcycles or <br>  
+diving into challenges on Hack The Box. <br> 
+I am always hungry for the next big challenge. <br>  
+Join me as I ride the waves of cybersecurity, <br>
+carving out my path in this ever-evolving landscape. ;) <br> 
 
 <!--
 Hacker GIF from here:
