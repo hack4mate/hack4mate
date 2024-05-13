@@ -1,7 +1,7 @@
 ### 👋 Hi - im Noah
 ---
 ### About me 
-<img align="right" alt="how_i_thik_i_look_xD" width="400" src="./assets/HackerUsingLaptop.gif">
+<img align="right" alt="how_i_thik_i_look_xD" width="370" src="./assets/HackerUsingLaptop.gif">
 
 Hey there, I'm Noah, welcome to my GitHub Profile. <br> 
 Here you can find Cybersecurity Related Projects and <br>
