@@ -75,5 +75,7 @@ $ hack4mate
 <summary><h3>🫣 my stats</h3></summary> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hack4mate&theme=holi&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack4mate&theme=holi&layout=compact)
 
 </details>
+
