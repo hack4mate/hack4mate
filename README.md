@@ -1,17 +1,10 @@
 ### 👋 Hi - im Noah
 ---
 ### About me 
-<img align="right" alt="how_i_thik_i_look_xD" width="370" src="./assets/HackerUsingLaptop.gif">
 
 Hey there, I'm Noah, welcome to my GitHub Profile. <br> 
 Here you can find Cybersecurity Related Projects and <br>
 other stuff i am working on. 
-
-<!--
-Hacker GIF from here:
-<a href="https://iconscout.com/lottie-animations/hacker-using-laptop" class="text-underline font-size-sm" target="_blank">Hacker Using Laptop</a> by <a href="https://iconscout.com/contributors/boltbite" class="text-underline font-size-sm">BoltBite</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
--->
----
 
 ### Languages and Tools - here are just a few ;)
 
